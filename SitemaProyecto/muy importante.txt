@@ -1,0 +1,4 @@
+ya esta la parte del usuario es decir la parte de que suve el pryecto solo falta lo del jues en contestar las preguntas y que te muestre el pdf de usuario alumno corecto as pruvas 
+
+
+pagina para suvir achivo de pdf ruta: http://localhost/SitemaProyecto/Forms/archivo.aspx esto se va avilia si en la tabla registro en su colocna es pdf es = 1
